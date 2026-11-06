@@ -53,6 +53,8 @@ def logged_in_chrome():
             viewport=None
         )
 
+        
+
         page = context.new_page()
 
         # Maximize the active Windows window

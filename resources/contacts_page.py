@@ -15,7 +15,7 @@ class ContactsPage(BasePage):
 
     @property
     def contact_new_button(self):
-        return self.page.locator("//div[@title='New']")
+        return self.page.locator("//button[@name='NewContact' and text()='New']")
 
     @property
     def salutation_droplist(self):

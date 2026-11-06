@@ -22,13 +22,6 @@ class PropertyExplorerPage(BasePage):
   
     # dynamic me property nhilagta
 
-    # def property_card(self, name:str):
-    #     return self.page.locator(f"//a[contains(@title,{name})]/descendant::h1")
-
-    
-    # def property_card_heading(self, name:str):
-    #     return self.property_card(f"//h1[contains({name})]/text()[last()]")
-
     def property_card(self, name: str):
         return self.page.locator(f"//a[contains(@title, '{name}')]")
 

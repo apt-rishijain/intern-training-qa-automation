@@ -64,6 +64,9 @@ def test_create_property_record(logged_in_chrome: Page):
 
         print("Scrolling...", scroll_count + 1)
 
+        if property_page.property_bed_fill.is_visible():
+        break
+
         # Scroll down using mouse wheel
         property_page.page.mouse.wheel(0, 800)
         scroll_count += 1

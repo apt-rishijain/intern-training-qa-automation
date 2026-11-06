@@ -45,6 +45,9 @@ def test_broker_related_property_visibility(logged_in_chrome: Page):
 
     while scroll_count < max_scrolls:
 
+        if property_page.property_new_record_broker_name.is_visible():
+        break
+
         print("Scrolling...", scroll_count + 1)
 
         # Scroll down using mouse wheel

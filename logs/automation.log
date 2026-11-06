@@ -2830,3 +2830,210 @@ INFO - Logger initialized
 INFO - Logger initialized
 INFO - Logger initialized
 INFO - Logger initialized
+INFO - Logger initialized
+INFO - Logger initialized
+INFO - Logger initialized
+INFO - Logger initialized
+INFO - logged-in into org successfully
+INFO - clicked on contacts tab
+INFO - Logger initialized
+INFO - logged-in into org successfully
+INFO - clicked on contacts tab
+INFO - Logger initialized
+INFO - logged-in into org successfully
+INFO - clicked on contacts tab
+INFO - Clicked on contacts new button
+INFO - clicked on contact record salutation droplist
+INFO - <Locator frame=<Frame name= url='https://orgfarm-e04209301e-dev-ed.develop.lightning.force.com/lightning/o/Contact/new?count=1&nooverride=1&useRecordTypeCheck=1&navigationLocation=LIST_VIEW&uid=179394548219598251&backgroundContext=%2Flightning%2Fo%2FContact%2FpipelineInspection%3FfilterName%3D00Baj00001LOZhZEAX'> selector='internal:role=option >> nth=2'>from salutation droplist selected
+INFO - printed selected salutation successfully
+INFO - clicked on contacts first name text box
+INFO - enteredJason as first name in contact's first name text box
+INFO - entered Harrison as last name in contact's last name text box
+INFO - Logger initialized
+INFO - logged-in into org successfully
+INFO - clicked on contacts tab
+INFO - Clicked on contacts new button
+INFO - clicked on contact record salutation droplist
+INFO - <Locator frame=<Frame name= url='https://orgfarm-e04209301e-dev-ed.develop.lightning.force.com/lightning/o/Contact/new?count=1&nooverride=1&useRecordTypeCheck=1&navigationLocation=LIST_VIEW&uid=179394568572848331&backgroundContext=%2Flightning%2Fo%2FContact%2FpipelineInspection%3FfilterName%3D00Baj00001LOZhZEAX'> selector='internal:role=option >> nth=3'>from salutation droplist selected
+INFO - printed selected salutation successfully
+INFO - clicked on contacts first name text box
+INFO - enteredDiane as first name in contact's first name text box
+INFO - entered Cunningham as last name in contact's last name text box
+INFO - Logger initialized
+INFO - test filters function created successfully
+INFO - logged-in into org successfully
+INFO - clicked on explorer tab
+INFO - successfully set the slider to 100000 in max_price slider
+INFO - successfully set the slider to 1 in bedroom number slider
+INFO - successfully set the slider to 1 in bathroom number slider
+INFO - applied filters successfully
+INFO - scrolled successfully
+INFO - scrolled successfully
+INFO - scrolled successfully
+INFO - Logger initialized
+INFO - test filters function created successfully
+INFO - logged-in into org successfully
+INFO - clicked on explorer tab
+INFO - successfully set the slider to 100000 in max_price slider
+INFO - successfully set the slider to 1 in bedroom number slider
+INFO - successfully set the slider to 1 in bathroom number slider
+INFO - applied filters successfully
+INFO - scrolled successfully
+INFO - scrolled successfully
+INFO - scrolled successfully
+INFO - Logger initialized
+INFO - Logger initialized
+INFO - Logger initialized
+INFO - Logger initialized
+INFO - Logger initialized
+INFO - test filters function created successfully
+INFO - logged-in into org successfully
+INFO - clicked on explorer tab
+INFO - test filters function created successfully
+INFO - logged-in into org successfully
+INFO - clicked on explorer tab
+INFO - test filters function created successfully
+INFO - logged-in into org successfully
+INFO - clicked on explorer tab
+INFO - test filters function created successfully
+INFO - logged-in into org successfully
+INFO - clicked on explorer tab
+INFO - test filters function created successfully
+INFO - logged-in into org successfully
+INFO - clicked on explorer tab
+INFO - test filters function created successfully
+INFO - logged-in into org successfully
+INFO - clicked on explorer tab
+INFO - Logger initialized
+INFO - test filters function created successfully
+INFO - logged-in into org successfully
+INFO - clicked on explorer tab
+INFO - successfully set the slider to 100000 in max_price slider
+INFO - successfully set the slider to 1 in bedroom number slider
+INFO - successfully set the slider to 1 in bathroom number slider
+INFO - applied filters successfully
+INFO - scrolled successfully
+INFO - scrolled successfully
+INFO - scrolled successfully
+INFO - test filters function created successfully
+INFO - logged-in into org successfully
+INFO - clicked on explorer tab
+INFO - successfully set the slider to 1000000 in max_price slider
+INFO - successfully set the slider to 1 in bedroom number slider
+INFO - successfully set the slider to 1 in bathroom number slider
+INFO - applied filters successfully
+INFO - scrolled successfully
+INFO - scrolled successfully
+INFO - scrolled successfully
+INFO - test filters function created successfully
+INFO - logged-in into org successfully
+INFO - clicked on explorer tab
+INFO - successfully set the slider to 500000 in max_price slider
+INFO - successfully set the slider to 2 in bedroom number slider
+INFO - successfully set the slider to 2 in bathroom number slider
+INFO - applied filters successfully
+INFO - scrolled successfully
+INFO - scrolled successfully
+INFO - scrolled successfully
+INFO - test filters function created successfully
+INFO - logged-in into org successfully
+INFO - clicked on explorer tab
+INFO - successfully set the slider to 750000 in max_price slider
+INFO - successfully set the slider to 3 in bedroom number slider
+INFO - successfully set the slider to 2 in bathroom number slider
+INFO - applied filters successfully
+INFO - scrolled successfully
+INFO - scrolled successfully
+INFO - scrolled successfully
+INFO - test filters function created successfully
+INFO - logged-in into org successfully
+INFO - clicked on explorer tab
+INFO - successfully set the slider to 1000000 in max_price slider
+INFO - successfully set the slider to 4 in bedroom number slider
+INFO - successfully set the slider to 3 in bathroom number slider
+INFO - applied filters successfully
+INFO - scrolled successfully
+INFO - scrolled successfully
+INFO - scrolled successfully
+INFO - test filters function created successfully
+INFO - logged-in into org successfully
+INFO - clicked on explorer tab
+INFO - successfully set the slider to 100000 in max_price slider
+INFO - Logger initialized
+INFO - test filters function created successfully
+INFO - logged-in into org successfully
+INFO - clicked on explorer tab
+INFO - successfully set the slider to 100000 in max_price slider
+INFO - successfully set the slider to 1 in bedroom number slider
+INFO - successfully set the slider to 1 in bathroom number slider
+INFO - applied filters successfully
+INFO - test filters function created successfully
+INFO - logged-in into org successfully
+INFO - clicked on explorer tab
+INFO - successfully set the slider to 1000000 in max_price slider
+INFO - successfully set the slider to 1 in bedroom number slider
+INFO - successfully set the slider to 1 in bathroom number slider
+INFO - applied filters successfully
+INFO - test filters function created successfully
+INFO - logged-in into org successfully
+INFO - clicked on explorer tab
+INFO - successfully set the slider to 500000 in max_price slider
+INFO - successfully set the slider to 2 in bedroom number slider
+INFO - successfully set the slider to 2 in bathroom number slider
+INFO - applied filters successfully
+INFO - test filters function created successfully
+INFO - logged-in into org successfully
+INFO - clicked on explorer tab
+INFO - successfully set the slider to 750000 in max_price slider
+INFO - successfully set the slider to 3 in bedroom number slider
+INFO - successfully set the slider to 2 in bathroom number slider
+INFO - applied filters successfully
+INFO - test filters function created successfully
+INFO - logged-in into org successfully
+INFO - clicked on explorer tab
+INFO - successfully set the slider to 1000000 in max_price slider
+INFO - successfully set the slider to 4 in bedroom number slider
+INFO - successfully set the slider to 3 in bathroom number slider
+INFO - applied filters successfully
+INFO - test filters function created successfully
+INFO - logged-in into org successfully
+INFO - clicked on explorer tab
+INFO - successfully set the slider to 100000 in max_price slider
+INFO - Logger initialized
+INFO - Logger initialized
+INFO - Logger initialized
+INFO - test filters function created successfully
+INFO - logged-in into org successfully
+INFO - clicked on explorer tab
+INFO - successfully set the slider to 100000 in max_price slider
+INFO - successfully set the slider to 1 in bedroom number slider
+INFO - successfully set the slider to 1 in bathroom number slider
+INFO - applied filters successfully
+INFO - test filters function created successfully
+INFO - logged-in into org successfully
+INFO - clicked on explorer tab
+INFO - successfully set the slider to 1000000 in max_price slider
+INFO - successfully set the slider to 1 in bedroom number slider
+INFO - successfully set the slider to 1 in bathroom number slider
+INFO - applied filters successfully
+INFO - test filters function created successfully
+INFO - logged-in into org successfully
+INFO - clicked on explorer tab
+INFO - successfully set the slider to 500000 in max_price slider
+INFO - successfully set the slider to 2 in bedroom number slider
+INFO - successfully set the slider to 2 in bathroom number slider
+INFO - applied filters successfully
+INFO - test filters function created successfully
+INFO - logged-in into org successfully
+INFO - clicked on explorer tab
+INFO - successfully set the slider to 750000 in max_price slider
+INFO - successfully set the slider to 3 in bedroom number slider
+INFO - successfully set the slider to 2 in bathroom number slider
+INFO - applied filters successfully
+INFO - test filters function created successfully
+INFO - logged-in into org successfully
+INFO - clicked on explorer tab
+INFO - successfully set the slider to 1000000 in max_price slider
+INFO - successfully set the slider to 4 in bedroom number slider
+INFO - successfully set the slider to 3 in bathroom number slider
+INFO - applied filters successfully

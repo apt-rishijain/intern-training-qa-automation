@@ -80,11 +80,3 @@ class PropertyPage(BasePage):
     @property
     def broker_selection_combobox(self):
         return self.page.locator("lightning-base-combobox-item")
-
-    
-
-    
-
-    
-
-   

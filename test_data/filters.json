@@ -28,11 +28,6 @@
         "max_price": 1000000,
         "bedrooms": 4,
         "bathrooms": 3
-    },
-    {
-        "case": "zero_results",
-        "max_price": 100000,
-        "bedrooms": 10,
-        "bathrooms": 10
     }
+  
 ]

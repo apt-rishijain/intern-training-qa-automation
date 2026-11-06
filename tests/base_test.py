@@ -142,6 +142,9 @@ def base_test_create_contacts_record(logged_in_chrome: Page):
     logger.info(f"entered {random_last_name} as last name in contact's last name text box")
     time.sleep(2)  
 
+    contacts_page.contact_save_button.click()
+    logger.info("clicked on contact record save buton")
+  
 def base_test_create_property_record(logged_in_chrome: Page) -> dict:
     logger.info("test property function created")
 
@@ -242,3 +245,5 @@ def get_filtered_property_count(self, max_price, beds, baths):
     result = self.sf.query(query)
 
     return [record["Name"] for record in result["records"]]
+
+    
