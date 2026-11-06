@@ -1,0 +1,18 @@
+# Python
+venv/
+.venv/
+__pycache__/
+.pytest_cache/
+
+# Authentication and secrets
+.env
+cookies.json
+utils/cookies.json
+.sf/
+.api/
+
+# Test reports
+logs/
+test_results/
+report.html
+
